@@ -1,0 +1,4 @@
+PyHamcrest==2.0.2
+pytest==6.2.3
+pytest-bdd==4.0.2
+selenium==3.141.0
